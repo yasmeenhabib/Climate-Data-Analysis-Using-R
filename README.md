@@ -40,3 +40,8 @@ Open analysis.R in RStudio and execute all chunks.
 - **Reduced model R²:** 0.6975; all included variables remain significant
 
 - **N2O coefficient shift:** from –0.02324 (full) to +0.02527 (reduced), indicating multicollinearity effects
+
+### Correlation Matrix
+Here is the correlation plot showing relationships among variables:
+
+![Correlation Matrix](result.png)
